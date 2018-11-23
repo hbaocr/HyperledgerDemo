@@ -12,3 +12,23 @@
  ![](LoC.jpg)
  
 
+## Install
+
+*  Setup Hyperledger platform
+[Setup hyperledger platform](https://github.com/reapra-hbaocr/HyperledgerDemo/wiki/1.-Setup-Hyperledger-Fabric-step-by-step)
+
+* Clone Project
+
+```Sh
+git clone 
+cd HyperledgerDemo
+```
+
+* Deploy Project
+
+```Sh
+cd composer-sample-applications/
+cd packages/letters-of-credit/
+./installer/install.sh
+```
+ 
