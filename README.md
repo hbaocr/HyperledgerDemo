@@ -5,3 +5,9 @@
  * The guide to setup the Hyperledger Fabric Blockchain (backend) Step by step
  * The demo documentation
  * ...
+ 
+ ## Concept 
+ 
+ ![](LoC.jpg)
+ 
+
