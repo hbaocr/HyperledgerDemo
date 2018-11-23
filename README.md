@@ -7,7 +7,7 @@
  * The demo documentation
  * ...
  
- ## Concept 
+ ## Workflow
  
  ![](LoC.jpg)
  
