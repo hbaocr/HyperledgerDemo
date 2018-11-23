@@ -23,11 +23,6 @@
 ```Sh
 #Clone src code
 git clone https://github.com/reapra-hbaocr/HyperledgerDemo.git 
-```
-
-* Deploy Project
-
-```Sh
 cd hyperledgerFabricLoC/
 cd packages/letters-of-credit/
 ./installer/install.sh
