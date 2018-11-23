@@ -9,7 +9,7 @@
  * The demo documentation
  * ...
  
- ## Workflow
+ ## Workflow of Letter of Credit Application
  
  ![](LoC.jpg)
  
@@ -19,11 +19,10 @@
 *  Setup Hyperledger platform
 [Setup hyperledger platform](https://github.com/reapra-hbaocr/HyperledgerDemo/wiki/1.-Setup-Hyperledger-Fabric-step-by-step)
 
-* Clone Project
- [Project Src code](https://drive.google.com/file/d/1_0dzbK1yBAxW8adxHk5jsdnV4ZccTYx3/view?usp=sharing)
+* Clone Project or download zip from  [Project Src code](https://drive.google.com/file/d/1_0dzbK1yBAxW8adxHk5jsdnV4ZccTYx3/view?usp=sharing)
 ```Sh
-#downlaod src code
-unzip hyperledgerFabricLoC.zip
+#Clone src code
+git clone https://github.com/reapra-hbaocr/HyperledgerDemo.git 
 ```
 
 * Deploy Project
